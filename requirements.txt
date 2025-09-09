@@ -1,2 +1,4 @@
 llama-index
 pypdf
+__future-__
+typing
